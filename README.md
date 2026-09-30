@@ -1,10 +1,10 @@
 # Tugas 2 - Array Function
 
-## 🧩 Identitas
+## Identitas
 - Nama: Aditya
 - NIM: F1D02310032
 
-## 📘 Deskripsi Tugas
+## Deskripsi Tugas
 Tugas ini dibuat untuk memahami penggunaan beberapa method array JavaScript pada data karakter Genshin Impact. Data yang digunakan berisi 20 karakter dengan informasi nama, jenis senjata, dan rarity.
 
 Enam method yang diterapkan dalam program ini adalah:
@@ -15,14 +15,14 @@ Enam method yang diterapkan dalam program ini adalah:
 - `some()`
 - `every()`
 
-### ▶️ Cara Menjalankan
+### Cara Menjalankan
 ```bash
 node arrayMethods_F1D02310032.js
 ```
 
 ---
 
-## 🔍 Implementasi dan Hasil
+## Implementasi dan Hasil
 
 ### 1. `map()`
 Tujuan: membuat ringkasan data nama, senjata, dan rarity dari semua karakter.
@@ -90,7 +90,7 @@ Tujuan: memeriksa apakah semua karakter menggunakan senjata yang sama.
 
 ---
 
-## ✅ Kesimpulan
+## Kesimpulan
 Setiap method array memiliki fungsi yang berbeda namun sama-sama penting dalam pengolahan data:
 
 - `map()` digunakan untuk memetakan dan mengubah setiap elemen menjadi bentuk baru.
