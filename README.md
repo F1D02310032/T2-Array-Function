@@ -6,7 +6,7 @@
 
 ## Deskripsi Tugas
 Tugas ini dibuat untuk memahami penggunaan beberapa method array JavaScript.
-Enam method yang diterapkan dalam program ini adalah:
+Terdapat enam method yang diterapkan dalam program ini yaitu:
 - `map()`
 - `filter()`
 - `reduce()`
