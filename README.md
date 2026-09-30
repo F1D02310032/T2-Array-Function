@@ -5,8 +5,7 @@
 - NIM: F1D02310032
 
 ## Deskripsi Tugas
-Tugas ini dibuat untuk memahami penggunaan beberapa method array JavaScript pada data karakter Genshin Impact. Data yang digunakan berisi 20 karakter dengan informasi nama, jenis senjata, dan rarity.
-
+Tugas ini dibuat untuk memahami penggunaan beberapa method array JavaScript.
 Enam method yang diterapkan dalam program ini adalah:
 - `map()`
 - `filter()`
@@ -14,6 +13,8 @@ Enam method yang diterapkan dalam program ini adalah:
 - `find()`
 - `some()`
 - `every()`
+
+Data yang digunakan dalam tugas ini adalah kumpulan karakter game Genshin Impact. Data yang digunakan berisi 20 karakter dengan informasi nama, jenis senjata, dan rarity.
 
 ### Cara Menjalankan
 ```bash
